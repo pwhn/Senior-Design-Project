@@ -1,6 +1,6 @@
 # Edu-Video AI Pipeline
 
-This folder contains a portfolio-ready snapshot of my final year project: an AI-powered educational video generation pipeline.
+This is my final year project, an AI-powered educational video generation pipeline.
 
 ## What the project does
 
@@ -41,14 +41,3 @@ It demonstrates skills in:
    ```bash
    python src/app.py
    ```
-
-## Notes
-
-- This portfolio version keeps the core code and documentation while avoiding large generated outputs and raw backup files.
-- Local model paths and environment-specific runtime settings may need adjustment on your machine.
-
-## Suggested next steps
-
-- Add one screenshot or short demo clip
-- Write a short architecture diagram in docs/
-- Add a 2-minute walkthrough video to your GitHub description
